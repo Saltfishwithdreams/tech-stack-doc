@@ -1,0 +1,11 @@
+{
+  "name": "login-dom-serve",
+  "description": "login-dom-serve test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^18.6.2",
+    "cors": "^2.8.5",
+    "express": "4.x"
+  }
+}
